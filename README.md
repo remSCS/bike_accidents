@@ -4,7 +4,10 @@ This is a repository for the data visualization competition. The goal is to crea
 
 ## Project structure
 ### Exploratory analysis
-The exploratory analysis is in the `exploratory_analysis` folder. It contains a Jupyter notebook that has been converted to HTML and PDF. The notebook is in English but can be translated to French on demand.
+The exploratory analysis is in the `exploratory_analysis` folder. It contains a Jupyter notebook that has been converted to HTML. The notebook is in English but can be translated to French on demand.
+
+### Visualization
+You will find a custom library dedicated to the visualization in the `lib` folder. 
 
 ### Dashboard
 The dashboard is in the root folder. It contains a Python file that contains the dashboard. The notebook is in English but can be translated to French on demand.
